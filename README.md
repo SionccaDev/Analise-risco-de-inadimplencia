@@ -1,0 +1,1 @@
+Esse projeto de análise descritiva têm embasamento em um banco de dados de uma instituição financeira anônima, onde são trabalhadas diversas variáveis de modo a despertar insights sobre o que tende a tornar um cliente inadimplente.
